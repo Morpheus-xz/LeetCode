@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Morpheus-xz/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Morpheus-xz/LeetCode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/Morpheus-xz/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Morpheus-xz/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Morpheus-xz/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Morpheus-xz/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Morpheus-xz/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0876-middle-of-the-linked-list) |
