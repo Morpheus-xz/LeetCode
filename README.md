@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Morpheus-xz/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/Morpheus-xz/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Morpheus-xz/LeetCode/tree/master/0223-rectangle-area) |
+| [0371-sum-of-two-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Morpheus-xz/LeetCode/tree/master/0078-subsets) |
+| [0371-sum-of-two-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
