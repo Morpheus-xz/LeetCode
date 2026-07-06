@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Morpheus-xz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Morpheus-xz/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Morpheus-xz/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Morpheus-xz/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Morpheus-xz/LeetCode/tree/master/0223-rectangle-area) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Morpheus-xz/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0611-valid-triangle-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
