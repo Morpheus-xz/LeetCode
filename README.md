@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Morpheus-xz/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Morpheus-xz/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Morpheus-xz/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/Morpheus-xz/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Morpheus-xz/LeetCode/tree/master/0223-rectangle-area) |
@@ -242,9 +243,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
