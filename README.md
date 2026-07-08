@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Morpheus-xz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Morpheus-xz/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Morpheus-xz/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Morpheus-xz/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0070-climbing-stairs) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Morpheus-xz/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
