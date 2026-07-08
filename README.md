@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Morpheus-xz/LeetCode/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
