@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/Morpheus-xz/LeetCode/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Morpheus-xz/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Morpheus-xz/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Morpheus-xz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
