@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Morpheus-xz/LeetCode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/Morpheus-xz/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Morpheus-xz/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Morpheus-xz/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Morpheus-xz/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Morpheus-xz/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Morpheus-xz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Morpheus-xz/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Morpheus-xz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Morpheus-xz/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Morpheus-xz/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Morpheus-xz/LeetCode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Enumeration
