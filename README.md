@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Morpheus-xz/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Morpheus-xz/LeetCode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0796-rotate-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Enumeration
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
