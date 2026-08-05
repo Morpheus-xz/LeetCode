@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Morpheus-xz/LeetCode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Enumeration
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/Morpheus-xz/LeetCode/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
