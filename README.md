@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Morpheus-xz/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1975-maximum-matrix-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2498-frog-jump-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2498-frog-jump-ii) |
 | [3731-find-missing-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/3731-find-missing-elements) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Morpheus-xz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1975-maximum-matrix-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Morpheus-xz/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1975-maximum-matrix-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2498-frog-jump-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2498-frog-jump-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Prefix Sum
