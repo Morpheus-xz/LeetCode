@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Morpheus-xz/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/Morpheus-xz/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Morpheus-xz/LeetCode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/Morpheus-xz/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Morpheus-xz/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Morpheus-xz/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Morpheus-xz/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Morpheus-xz/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Morpheus-xz/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Morpheus-xz/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Morpheus-xz/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Morpheus-xz/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Morpheus-xz/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
