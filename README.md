@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Morpheus-xz/LeetCode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Morpheus-xz/LeetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Morpheus-xz/LeetCode/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/Morpheus-xz/LeetCode/tree/master/0355-design-twitter) |
 ## Manacher
 |  |
