@@ -1,9 +1,9 @@
 class MinStack {
     Stack<Integer> st = new Stack<>();
     Stack<Integer> min = new Stack<>();
-    public MinStack() {
+    // public MinStack() {
 
-    }
+    // }
     public void push(int val) {
         if (st.isEmpty()) {
             st.push(val);
