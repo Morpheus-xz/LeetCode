@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1922-count-good-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/Morpheus-xz/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3099-harshad-number](https://github.com/Morpheus-xz/LeetCode/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Morpheus-xz/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Morpheus-xz/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Morpheus-xz/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Morpheus-xz/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Morpheus-xz/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
