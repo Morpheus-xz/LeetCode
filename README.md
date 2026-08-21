@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1323-maximum-69-number](https://github.com/Morpheus-xz/LeetCode/tree/master/1323-maximum-69-number) |
 | [1922-count-good-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Morpheus-xz/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1323-maximum-69-number](https://github.com/Morpheus-xz/LeetCode/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Morpheus-xz/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Morpheus-xz/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
