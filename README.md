@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Morpheus-xz/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Morpheus-xz/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0172-factorial-trailing-zeroes](https://github.com/Morpheus-xz/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Morpheus-xz/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Morpheus-xz/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Morpheus-xz/LeetCode/tree/master/0231-power-of-two) |
