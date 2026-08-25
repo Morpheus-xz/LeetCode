@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2498-frog-jump-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2498-frog-jump-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Morpheus-xz/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 | [3895-count-digit-appearances](https://github.com/Morpheus-xz/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Morpheus-xz/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Morpheus-xz/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Morpheus-xz/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3804-number-of-centered-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/3804-number-of-centered-subarrays) |
