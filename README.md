@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Morpheus-xz/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Morpheus-xz/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/Morpheus-xz/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1390-four-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Morpheus-xz/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1323-maximum-69-number](https://github.com/Morpheus-xz/LeetCode/tree/master/1323-maximum-69-number) |
 | [1362-closest-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1362-closest-divisors) |
+| [1390-four-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Morpheus-xz/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1922-count-good-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1362-closest-divisors) |
+| [1390-four-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
 ## Least Common Multiple
 |  |
@@ -549,5 +552,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
