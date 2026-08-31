@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-closest-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1362-closest-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Morpheus-xz/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1922-count-good-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1922-count-good-numbers) |
+| [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/Morpheus-xz/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -314,11 +315,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Morpheus-xz/LeetCode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
 | [3804-number-of-centered-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Morpheus-xz/LeetCode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Morpheus-xz/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1362-closest-divisors) |
+| [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
 ## Least Common Multiple
 |  |
 | ------- |
@@ -542,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
