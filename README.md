@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Morpheus-xz/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Morpheus-xz/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Morpheus-xz/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
 | ------- |
