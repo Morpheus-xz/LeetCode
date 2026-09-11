@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Morpheus-xz/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Morpheus-xz/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Morpheus-xz/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/3804-number-of-centered-subarrays) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Morpheus-xz/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Morpheus-xz/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Morpheus-xz/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Morpheus-xz/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Morpheus-xz/LeetCode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3804-number-of-centered-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Number Theory
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Morpheus-xz/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
