@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3110-score-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3110-score-of-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Morpheus-xz/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Enumeration
 |  |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Morpheus-xz/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
