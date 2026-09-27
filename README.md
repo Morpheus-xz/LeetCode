@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3110-score-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3110-score-of-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3498-reverse-degree-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Morpheus-xz/LeetCode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Morpheus-xz/LeetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
