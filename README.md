@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3110-score-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3110-score-of-a-string) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Morpheus-xz/LeetCode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Morpheus-xz/LeetCode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
