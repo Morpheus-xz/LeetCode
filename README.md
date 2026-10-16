@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Morpheus-xz/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Morpheus-xz/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Morpheus-xz/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Morpheus-xz/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Morpheus-xz/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Morpheus-xz/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/3731-find-missing-elements) |
@@ -739,8 +741,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
