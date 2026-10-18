@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Morpheus-xz/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Morpheus-xz/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Morpheus-xz/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Morpheus-xz/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Morpheus-xz/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Morpheus-xz/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -538,11 +541,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -592,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Morpheus-xz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Morpheus-xz/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -637,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Morpheus-xz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Morpheus-xz/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Minimax
@@ -685,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Morpheus-xz/LeetCode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -734,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Knapsack Problem
 |  |
@@ -758,4 +767,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Morpheus-xz/LeetCode/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
