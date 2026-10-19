@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2498-frog-jump-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Morpheus-xz/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Morpheus-xz/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Morpheus-xz/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2498-frog-jump-ii) |
 ## Hash Table
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Morpheus-xz/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Morpheus-xz/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Morpheus-xz/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/Morpheus-xz/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
