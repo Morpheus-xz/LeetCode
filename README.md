@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Morpheus-xz/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Morpheus-xz/LeetCode/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1254-number-of-closed-islands](https://github.com/Morpheus-xz/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Morpheus-xz/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Morpheus-xz/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Morpheus-xz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/Morpheus-xz/LeetCode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Morpheus-xz/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Morpheus-xz/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Morpheus-xz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Morpheus-xz/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Morpheus-xz/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Morpheus-xz/LeetCode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Morpheus-xz/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Morpheus-xz/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
