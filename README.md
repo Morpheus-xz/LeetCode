@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Morpheus-xz/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Morpheus-xz/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Morpheus-xz/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Morpheus-xz/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0392-is-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Morpheus-xz/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Morpheus-xz/LeetCode/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Morpheus-xz/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Morpheus-xz/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/Morpheus-xz/LeetCode/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
