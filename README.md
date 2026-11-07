@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Morpheus-xz/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Morpheus-xz/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/Morpheus-xz/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/Morpheus-xz/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Morpheus-xz/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Morpheus-xz/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Morpheus-xz/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
