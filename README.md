@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Morpheus-xz/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Morpheus-xz/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Morpheus-xz/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Morpheus-xz/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Morpheus-xz/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Morpheus-xz/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Morpheus-xz/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Morpheus-xz/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
 | ------- |
