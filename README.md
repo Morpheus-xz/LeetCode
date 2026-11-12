@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Morpheus-xz/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Morpheus-xz/LeetCode/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/Morpheus-xz/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1254-number-of-closed-islands](https://github.com/Morpheus-xz/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/Morpheus-xz/LeetCode/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/Morpheus-xz/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Morpheus-xz/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Morpheus-xz/LeetCode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/Morpheus-xz/LeetCode/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Morpheus-xz/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Morpheus-xz/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/Morpheus-xz/LeetCode/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/Morpheus-xz/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -641,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Morpheus-xz/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Morpheus-xz/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
