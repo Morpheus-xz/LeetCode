@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Morpheus-xz/LeetCode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Morpheus-xz/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Morpheus-xz/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Morpheus-xz/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Morpheus-xz/LeetCode/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Morpheus-xz/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Morpheus-xz/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Morpheus-xz/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Morpheus-xz/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Morpheus-xz/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Morpheus-xz/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Morpheus-xz/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Morpheus-xz/LeetCode/tree/master/1323-maximum-69-number) |
 | [1362-closest-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1390-four-divisors) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Morpheus-xz/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Morpheus-xz/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
