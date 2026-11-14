@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Morpheus-xz/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Morpheus-xz/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Morpheus-xz/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Morpheus-xz/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Morpheus-xz/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2747-count-zero-request-servers](https://github.com/Morpheus-xz/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Morpheus-xz/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Morpheus-xz/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/Morpheus-xz/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Morpheus-xz/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
 |  |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Morpheus-xz/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Morpheus-xz/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Morpheus-xz/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2409-count-days-spent-together](https://github.com/Morpheus-xz/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3110-score-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3110-score-of-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
