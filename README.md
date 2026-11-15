@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Morpheus-xz/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Morpheus-xz/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Morpheus-xz/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Morpheus-xz/LeetCode/tree/master/0735-asteroid-collision) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Morpheus-xz/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Morpheus-xz/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0877-stone-game) |
@@ -933,11 +935,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Morpheus-xz/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -990,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Morpheus-xz/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Queue
 |  |
 | ------- |
