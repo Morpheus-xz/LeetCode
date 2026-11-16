@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Morpheus-xz/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3351-sum-of-good-subsequences](https://github.com/Morpheus-xz/LeetCode/tree/master/3351-sum-of-good-subsequences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Morpheus-xz/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Morpheus-xz/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3351-sum-of-good-subsequences](https://github.com/Morpheus-xz/LeetCode/tree/master/3351-sum-of-good-subsequences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Morpheus-xz/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3351-sum-of-good-subsequences](https://github.com/Morpheus-xz/LeetCode/tree/master/3351-sum-of-good-subsequences) |
 | [3665-twisted-mirror-path-count](https://github.com/Morpheus-xz/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Morpheus-xz/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
