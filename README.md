@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Morpheus-xz/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Morpheus-xz/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Morpheus-xz/LeetCode/tree/master/0066-plus-one) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Morpheus-xz/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Morpheus-xz/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Morpheus-xz/LeetCode/tree/master/0409-longest-palindrome) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Morpheus-xz/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Morpheus-xz/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Morpheus-xz/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Morpheus-xz/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Morpheus-xz/LeetCode/tree/master/0070-climbing-stairs) |
