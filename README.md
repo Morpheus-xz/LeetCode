@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Morpheus-xz/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Morpheus-xz/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Morpheus-xz/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Morpheus-xz/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Morpheus-xz/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2409-count-days-spent-together](https://github.com/Morpheus-xz/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Morpheus-xz/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3110-score-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3110-score-of-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3498-reverse-degree-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Morpheus-xz/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3351-sum-of-good-subsequences](https://github.com/Morpheus-xz/LeetCode/tree/master/3351-sum-of-good-subsequences) |
 | [3665-twisted-mirror-path-count](https://github.com/Morpheus-xz/LeetCode/tree/master/3665-twisted-mirror-path-count) |
