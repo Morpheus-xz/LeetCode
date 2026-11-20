@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Morpheus-xz/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Morpheus-xz/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Morpheus-xz/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Morpheus-xz/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Morpheus-xz/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Morpheus-xz/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Morpheus-xz/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/Morpheus-xz/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Morpheus-xz/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Morpheus-xz/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3351-sum-of-good-subsequences](https://github.com/Morpheus-xz/LeetCode/tree/master/3351-sum-of-good-subsequences) |
 | [3665-twisted-mirror-path-count](https://github.com/Morpheus-xz/LeetCode/tree/master/3665-twisted-mirror-path-count) |
