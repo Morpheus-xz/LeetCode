@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Morpheus-xz/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Morpheus-xz/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3351-sum-of-good-subsequences](https://github.com/Morpheus-xz/LeetCode/tree/master/3351-sum-of-good-subsequences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Morpheus-xz/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Morpheus-xz/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Morpheus-xz/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Morpheus-xz/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3351-sum-of-good-subsequences](https://github.com/Morpheus-xz/LeetCode/tree/master/3351-sum-of-good-subsequences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Morpheus-xz/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3110-score-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3110-score-of-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Morpheus-xz/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Morpheus-xz/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Morpheus-xz/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Morpheus-xz/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Morpheus-xz/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Morpheus-xz/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Morpheus-xz/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Morpheus-xz/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Morpheus-xz/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Morpheus-xz/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Morpheus-xz/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
