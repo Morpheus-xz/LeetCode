@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Morpheus-xz/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Morpheus-xz/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Morpheus-xz/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Morpheus-xz/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1390-four-divisors) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Morpheus-xz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Morpheus-xz/LeetCode/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/Morpheus-xz/LeetCode/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Morpheus-xz/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Morpheus-xz/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Morpheus-xz/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Morpheus-xz/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Morpheus-xz/LeetCode/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/Morpheus-xz/LeetCode/tree/master/0355-design-twitter) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Manacher
 |  |
 | ------- |
@@ -1044,4 +1048,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Morpheus-xz/LeetCode/tree/master/0455-assign-cookies) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
