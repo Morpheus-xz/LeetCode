@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Morpheus-xz/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Morpheus-xz/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Morpheus-xz/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Morpheus-xz/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Morpheus-xz/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/Morpheus-xz/LeetCode/tree/master/2498-frog-jump-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Morpheus-xz/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Morpheus-xz/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3804-number-of-centered-subarrays](https://github.com/Morpheus-xz/LeetCode/tree/master/3804-number-of-centered-subarrays) |
+| [3934-smallest-unique-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/Morpheus-xz/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
@@ -1057,4 +1060,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Morpheus-xz/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Morpheus-xz/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
